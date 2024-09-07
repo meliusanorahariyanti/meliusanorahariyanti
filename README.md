@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meliusanorahariyanti&label=Profile%20views&color=0e75b6&style=flat" alt="meliusanorahariyanti" /> </p>
 
-- 👨‍💻 All of my projects are available at [meliusanorahariyanti.github.io](meliusanorahariyanti.github.io)
+- 👨‍💻 All of my projects are available at [meliusanorahariyanti.github.io](meliusanorahariyanti.github.io) *not finished yet
 
 - 📫 How to reach me **meliusanorahariyanti@gmail.com**
 
