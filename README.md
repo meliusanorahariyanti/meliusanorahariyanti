@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meliusa Nora Hariyanti</h1>
+<h1 align="center">Hi 👋, I'm Mely</h1>
 <h3 align="center">Fullstack Developer | System Analyst | Quality Assurance Specialist | 6+ Years in IT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meliusanorahariyanti&label=Profile%20views&color=0e75b6&style=flat" alt="meliusanorahariyanti" /> </p>
